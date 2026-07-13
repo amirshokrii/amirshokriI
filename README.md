@@ -1,38 +1,4 @@
-<!--
-  ============================================================
-  Amirhossein Shokri — GitHub Profile README
-  ------------------------------------------------------------
-  HOW TO USE:
-  1. GitHub username is already set to "amirshokrii" throughout
-     this file (stats widgets, typing SVG links, project repo
-     links). If you ever rename your account, replace every
-     "amirshokrii" occurrence with the new username.
-  2. Replace the 4 placeholder project blocks with your real
-     repos: swap the screenshot URL, title, description, tech
-     badges, and the two button links (Live Demo / Source Code).
-  3. When you're ready, drop your LinkedIn URL into the LinkedIn
-     badge (marked with a TODO comment below) — it is left
-     unlinked on purpose for now.
-  4. This file is pure Markdown + a few hosted image services
-     (Shields.io, Skill Icons, Capsule Render, GitHub Readme
-     Stats/Streak). No local assets required — it will render
-     immediately once the username is swapped in.
-  5. Honesty note: the 4 project cards are placeholders meant to
-     show the *layout* you should use. Only keep as many cards as
-     you have real, deployed projects for — delete the rest rather
-     than shipping empty placeholders. Two real projects beat four
-     fake-looking ones.
-  6. "Error Fetching Resource" on the GitHub Statistics images is
-     NOT a bug in this file — it's a known, widely-reported issue
-     with the free public github-readme-stats / streak-stats demo
-     servers (rate limits + timeouts on their side, well documented
-     in their GitHub issue trackers). The URLs below are correct.
-     It usually resolves after a few refreshes/hours. If it keeps
-     failing, deploy your own free copy of the stats API to Vercel
-     (one click, see the project's README) and swap in your own
-     domain — that removes you from the shared public rate limit.
-  ============================================================
--->
+
 
 <div align="center">
 
@@ -45,10 +11,9 @@
 <a href="https://github.com/amirshokrii" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Building+modern+web+experiences+%E2%9A%A1;React+%26+Next.js;JavaScript+%26+TypeScript;Clean+Code+%2B+Great+UI;Always+Learning" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="40%" alt="neon accent line" />
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
+</div>
 
 </div>
 
@@ -62,13 +27,7 @@ I'm a Front-End Developer with a genuine passion for building clean, responsive,
 I'm open to new front-end opportunities where I can keep learning while contributing to real products.
 
 <div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
+<img width="120%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
 </div>
 
 <!-- ================= TECH STACK ================= -->
@@ -92,7 +51,7 @@ I'm open to new front-end opportunities where I can keep learning while contribu
 <br/>
 
 <div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="50%" alt="neon divider" />
 </div>
 
 <!-- ================= FEATURED PROJECTS ================= -->
@@ -156,33 +115,25 @@ I'm open to new front-end opportunities where I can keep learning while contribu
 <br/>
 
 <div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="50%" alt="neon divider" />
 </div>
 
 <!-- ================= GITHUB STATISTICS ================= -->
 ## 📊 GitHub Statistics
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=amirshokrii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-/>
+<div align="center">
 
-<img
-height="170"
-src="https://streak-stats.demolab.com?user=amirshokrii&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=amirshokrii&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E27&title_color=38BDF8&icon_color=22D3EE&text_color=cbd5e1" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.demolab.com?user=amirshokrii&theme=dark&hide_border=true&background=0A0E27&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub Streak Stats" width="49%" />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshokrii&layout=compact&theme=dark&hide_border=true&bg_color=0A0E27&title_color=38BDF8&text_color=cbd5e1" alt="Top Languages" width="49%" />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshokrii&layout=compact&theme=tokyonight&hide_border=true"
-/>
+</div>
 
 <br/>
 
 <div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="50%" alt="neon divider" />
 </div>
 
 <!-- ================= CURRENTLY LEARNING ================= -->
@@ -196,7 +147,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshokrii&
 <br/>
 
 <div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header" alt="divider"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgNjAwIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJuZW9uIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTQwQUYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwRUE1RTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjJEM0VFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTQwMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjkwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzLjIiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEyIiB4Mj0iNTkwIiB5Mj0iMTIiIHN0cm9rZT0idXJsKCNuZW9uKSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+Cjwvc3ZnPgo=" width="50%" alt="neon divider" />
 </div>
 
 <!-- ================= CONTACT ================= -->
@@ -218,4 +169,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshokrii&
 <sub>Thanks for stopping by — always open to feedback and collaboration.</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:14213d,60:0f4c75,80:0f2545,100:0a0e27&height=100&section=footer" alt="footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:0f4c75,100:06B6D4&height=120&section=footer" alt="footer wave" />
