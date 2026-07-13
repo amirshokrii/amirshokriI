@@ -29,10 +29,6 @@ I'm a Front-End Developer with a genuine passion for building clean, responsive,
 
 I'm open to new front-end opportunities where I can keep learning while contributing to real products.
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:06B6D4,100:22D3EE&height=3&section=header"
-  width="80%"
-/>
 </br>
 
 <!-- ================= TECH STACK ================= -->
